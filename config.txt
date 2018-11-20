@@ -1,0 +1,6 @@
+﻿token=اNTE0NDgxODY1NTg0MDE3NDM2.DtXMOg.ruD4cO3dZjpcSwLRG4tpf_rZPpg
+owner=514480881209966592.DdnkA5L-a_xsp7qu5fIA8qKXBhA
+prefix= $
+game= $help :D |Development by : |Void#0461
+stayinchannel=true
+songinstatus=true 
